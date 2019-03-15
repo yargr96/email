@@ -1,0 +1,1382 @@
+Received: from mxfront3o.mail.yandex.net ([127.0.0.1])
+	by mxfront3o.mail.yandex.net with LMTP id 8535
+	for <sf92@yandex.ru>; Thu, 21 Feb 2019 17:55:17 +0300
+Received: from omp.info.uralairlines.ru (omp.info.uralairlines.ru [12.130.153.217])
+	by mxfront3o.mail.yandex.net (nwsmtp/Yandex) with ESMTP id lILPjdhcKX-tFpCV2eS;
+	Thu, 21 Feb 2019 17:55:15 +0300
+Return-Path: news@info.uralairlines.ru
+X-Yandex-Front: mxfront3o.mail.yandex.net
+X-Yandex-TimeMark: 1550760915.864
+Authentication-Results: mxfront3o.mail.yandex.net; spf=pass (mxfront3o.mail.yandex.net: domain of info.uralairlines.ru designates 12.130.153.217 as permitted sender, rule=[ip4:12.130.153.0/24]) smtp.mail=news@info.uralairlines.ru; dkim=pass header.i=news@info.uralairlines.ru
+X-Yandex-Spam: 1
+X-Yandex-Fwd: MTc5NDA2MzIyMTMxMDkwNzk2NiwxNTczMjE3NjAwMDg0MDEzNzk1Ng==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=uralairlines; d=info.uralairlines.ru;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:Message-ID; i=news@info.uralairlines.ru;
+ bh=mP2ADQScLWA2j2x110c7jfm+SAeXjDyNH6l8rDSsH00=;
+ b=pXnM4u9Mgd5PGYKvmZFec1D+ELVG/1Ltcn0614CrVTDSCOPLscYM0JDYpVObpNrXwd+5XlmehwwO
+   5NVwDCzITGyBT8v+S6/4f4pUoDBS7cKhE6MIwucEM7H+g4Bk/a/z7gNuA7nPprDZq4olmg8tpQF5
+   dyljc64Fa/eM9tKzGx8=
+Received: by omp.info.uralairlines.ru id hdqtt62h0co7 for <sf92@yandex.ru>; Thu, 21 Feb 2019 06:53:15 -0800 (envelope-from <news@info.uralairlines.ru>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 21 Feb 2019 06:53:15 -0800
+To: sf92@yandex.ru
+From: =?UTF-8?B?VXJhbCBBaXJsaW5lcw==?= <news@info.uralairlines.ru>
+Reply-To: =?UTF-8?B?VXJhbCBBaXJsaW5lcw==?= <reply@info.uralairlines.ru>
+Subject: =?UTF-8?B?0J/QvtGB0LvQtdC00L3QuNC1INC00L3QuCDRgNCw0YHQv9GA0L4=?=
+	=?UTF-8?B?0LTQsNC20LjinZc=?=
+Feedback-ID: 8535:8822002:oraclersys
+X-sgxh1: kMDTxPHgKLzfQjm
+X-rext: 5.interact2.EquYKWONJECj5ABz4Y6m-voBlu8ZX_g1wG3bWcM73q_9qg9fNrafd0
+X-cid: uralair.70180462
+Message-ID: <0.1.2F.DD3.1D4C9F52CE8D714.0@omp.info.uralairlines.ru>
+X-Yandex-Forward: acad963c9a134a906540366d7e49c04e
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional //EN=22 =22=
+http://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22 />
+<html lang=3D=22ru=22 xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:=
+v=3D=22urn:schemas-microsoft-com:vml=22 xmlns:o=3D=22urn:schemas-microsoft-=
+com:office:office=22>
+
+<head>
+    <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=
+=3DUTF-8=22 />
+    <meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-=
+scale=3D1=2E0=22 />
+    <meta name=3D=22x-apple-disable-message-reformatting=22 />
+	<meta content=3D=22telephone=3Dno=22 name=3D=22format-detection=22>
+    <=21--=5Bif =21mso=5D><=21-->
+    <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22 />
+    <=21--<=21=5Bendif=5D-->
+=09
+	<title>=D0=91=D0=B8=D0=BB=D0=B5=D1=82=D1=8B =D0=B2 =D0=BB=D0=B5=D1=82=D0=
+=BE</title>
+=09
+	<style type=3D=22text/css=22>
+        * =7B
+            text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            -moz-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        =7D
+
+        html =7B
+          height: 100%;
+          width: 100%;
+        =7D
+
+        body =7B
+            height: 100% =21important;
+            margin: 0 =21important;
+            padding: 0 =21important;
+            width: 100% =21important;
+            mso-line-height-rule: exactly;
+        =7D
+
+        =40media only screen and (max-width: 630px) =7B
+            =2Epattern =7B
+                width: 100% =21important;
+                min-width: 0 =21important;
+            =7D
+            =2Ebanner__name =7B
+                font-size: 26px =21important;
+            =7D
+            =2Ebanner__text =7B
+                font-size: 20px =21important;
+            =7D
+            =2Eheader_logo =7B
+                padding: 0 =21important;
+                width: 100%;
+            =7D
+            =2Eheader_link =7B display: none; =7D
+            =2Eheader_link_xs =7B
+                display: table-cell =21important;
+                width: 100% =21important;
+                height: auto =21important;
+                max-height: inherit =21important;
+                overflow: visible =21important;
+                float: none =21important;
+                padding-bottom: 15px;
+            =7D
+            =2Ecolumn =7B
+                display: block;
+                width: 100%;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+            =7D
+            =2Etable =7B
+                border-spacing: 20px =21important;
+            =7D
+			=2Ecard-text =7B
+				display: block =21important;
+				margin: 0 0 8px =21important;
+			=7D
+        =7D
+
+	</style>
+</head>
+
+<body style=3D=22background-color: =23f4f3f3; margin: 0;=22>
+    <center style=3D=22width: 100%; background: =23f0f0f0; text-align: left=
+;=22>
+
+     =20
+        <div style=3D=22display: none; font-size: 1px; line-height: 1px; ma=
+x-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;=
+ font-family: sans-serif;=22>
+            =D0=9D=D0=B5 =D1=83=D0=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D0=B5 =
+=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=BA=
+=D1=83=D0=BF=D0=B8=D1=82=D1=8C =D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D1=8B =D0=B2 =
+=D0=BB=D0=B5=D1=82=D0=BE =D1=81=D0=BE =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=
+=D0=B9=21=20
+        </div>
+
+
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 bgcolor=3D=22=23f4f3f3=22 style=3D=22border-collapse:collapse;=
+=22>
+<tr>
+<td align=3D=22center=22>
+<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22 width=3D=22100%=22 style=3D=22border-collapse:collapse;=22>
+<tr>
+<td align=3D=22center=22>
+    <table class=3D=22pattern=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=22 style=3D=22min-wi=
+dth:600px; width:600px; background: =23ffffff; box-shadow: 0 0 15px 0px rgb=
+a(0,0,0,=2E1);=22>
+
+        <tr>
+            <td width=3D=22100%=22 align=3D=22left=22 valign=3D=22top=22 st=
+yle=3D=22padding: 20px 5%;=22>
+                <table border=3D=220=22 align=3D=22left=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22>
+                    <tr>
+                        <td class=3D=22header_link_xs=22 align=3D=22center=
+=22 style=3D=22display: none; width: 0; height: 0; max-height: 0; overflow:=
+ hidden; float: left; text-align: center;=22>
+                            <a href=3D=22https://info=2Euralairlines=2Eru/p=
+ub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4=
+JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYSAT&amp;_ei_=3DEsd6FQpGn9uiMirXbnB-9QIPym=
+0dMy1MxOI5EeZaCS6_PVd-mZVQdFN9a5_RUsq1QgxGv7xvNENUVH_vRBw8MfTGHpEFbMaXWvP2T=
+28eUexq4WrCV-kkzH6cXjTmcuvSvvXkIXctTpMLkjLZOLCU5u2fvJ6LW2JLliUW3_4gPQolWNa_=
+6oCiVfi1SvRXZa-RxTLWT8ZZPqUDkQZvT8zwyEOCbvTTLt7FPSvQce0O3fiDde6BacAcBLqxHlF=
+JJyVpCoEFFNC6-JaF5JSarULsvaJj8nCBSw=2E=22 style=3D=22font-family: Helvetica=
+, Arial, sans-serif; font-size: 13px; line-height: 19px; color: =23b7b7b7; =
+font-weight: 200; text-decoration: underline;=22 target=3D=22_blank=22>=D0=
+=92=D0=B5=D0=B1-=D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class=3D=22header_logo=22 align=3D=22center=22 =
+style=3D=22text-align: center; padding: 25px 0 0 76px;=22 valign=3D=22middl=
+e=22>
+                            <a href=3D=22https://info=2Euralairlines=2Eru/p=
+ub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4=
+JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYSCT&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRX=
+hXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=2E=22 style=3D=22=
+display: inline-block; text-decoration: none; border: 0;=22 target=3D=22_bl=
+ank=22 title=3D=22uralairlines=2Eru=22><img alt=3D=22Uralairlines=22 border=
+=3D=220=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimage=
+s/uralair/contentlibrary/promo/20190221_sale_summer_all_4//images/logo_new=
+=2Epng=22 style=3D=22display:block; border: 0; width: 100%; max-width: 180p=
+x; height: auto;=22></a>
+                        </td>
+                        <td class=3D=22header_link=22 align=3D=22right=22 s=
+tyle=3D=22text-align: right; padding: 25px 0 0; width:  76px;=22 valign=3D=
+=22middle=22>
+                            <a href=3D=22https://info=2Euralairlines=2Eru/p=
+ub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4=
+JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYSAT&amp;_ei_=3DEsd6FQpGn9uiMirXbnB-9QIPym=
+0dMy1MxOI5EeZaCS6_PVd-mZVQdFN9a5_RUsq1QgxGv7xvNENUVH_vRBw8MfTGHpEFbMaXWvP2T=
+28eUexq4WrCV-kkzH6cXjTmcuvSvvXkIXctTpMLkjLZOLCU5u2fvJ6LW2JLliUW3_4gPQolWNa_=
+6oCiVfi1SvRXZa-RxTLWT8ZZPqUDkQZvT8zwyEOCbvTTLt7FPSvQce0O3fiDde6BacAcBLqxHlF=
+JJyVpCoEFFNC6-JaF5JSarULsvaJj8nCBSw=2E=22 style=3D=22display: block; paddin=
+g: 2px 0; font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-=
+height: 19px; color: =23b7b7b7; font-weight: 200; text-decoration: underlin=
+e;=22 target=3D=22_blank=22>=D0=92=D0=B5=D0=B1-=D0=B2=D0=B5=D1=80=D1=81=D0=
+=B8=D1=8F</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td width=3D=22100%=22 align=3D=22center=22 valign=3D=22top=22 =
+style=3D=22padding: 0 5%; font-size: 16px; line-height: 20px; font-family: =
+Helvetica, Arial, sans-serif;=22>
+                <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 style=3D=22margin:0;=22 width=3D=22100%=22>
+                    <tr>
+                        <td align=3D=22center=22 style=3D=22padding: 0; fon=
+t-size: 14px; line-height: 1=2E2; font-weight: 300; font-family: Helvetica,=
+ Arial, sans-serif; color:=23000000;=22 valign=3D=22top=22>
+                            =D0=97=D0=B4=D1=80=D0=B0=D0=B2=D1=81=D1=82=D0=
+=B2=D1=83=D0=B9=D1=82=D0=B5, <a href=3D=22https://info=2Euralairlines=2Eru/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI=
+4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYTRT&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGR=
+XhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=2E=22 target=3D=
+=22_blank=22><span style=3D=22color:=23000000;=22><span style=3D=22text-dec=
+oration: underline;=22> =D0=A4=D0=BE=D0=BC=D0=B8=D0=BD=D1=8B=D1=85 =D0=A1=
+=D0=B5=D1=80=D0=B3=D0=B5=D0=B9  </span></span></a>
+                        </td>
+                    </tr>
+					<tr>
+                        <td align=3D=22center=22 style=3D=22padding: 8px 0 =
+0; font-size: 14px; line-height: 1=2E2; font-weight: 300; font-family: Helv=
+etica, Arial, sans-serif;=22 valign=3D=22top=22>
+                            <div class=3D=22card-text=22 style=3D=22display=
+: inline-block; margin: 0 20px 0 0; font-size: 14px; line-height: 1=2E2; fo=
+nt-weight: 300; font-family: Helvetica, Arial, sans-serif; color:=23000000;=
+=22>
+                                =D0=92=D0=B0=D1=88=D0=B0 =D0=BA=D0=B0=D1=80=
+=D1=82=D0=B0: 1000571788
+                            </div>
+                            <div style=3D=22display: inline-block; font-siz=
+e: 14px; line-height: 1=2E2; font-weight: 300; font-family: Helvetica, Aria=
+l, sans-serif; color:=23000000;=22>
+                                =D0=91=D0=B0=D0=BB=D0=B0=D0=BD=D1=81 =D0=BA=
+=D0=B0=D1=80=D1=82=D1=8B: 2,039&nbsp;=D0=B1=D0=BE=D0=BD=D1=83=D1=81=D0=BE=
+=D0=B2
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td width=3D=22100%=22 align=3D=22left=22 valign=3D=22top=22 st=
+yle=3D=22padding: 20px 5%;=22>
+                <table border=3D=220=22 align=3D=22left=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22>
+                    <tr>
+                        <td style=3D=22background-color: =23d0d0d0; backgro=
+und-image: url(http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/ura=
+lair/contentlibrary/promo/20190221_sale_summer_all_4//images/bg_2-2=2Ejpg);=
+ -webkit-background-size: cover;background-size: cover; background-position=
+: center;=22>
+                        <=21--=5Bif gte mso 9=5D>
+                        <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=
+=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:540px;height:19=
+0px;=22>
+                            <v:fill type=3D=22tile=22 src=3D=22/images/bg_2=
+-2=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                            <v:textbox inset=3D=220,0,0,0=22>
+                        <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2234=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td align=3D=22center=22 valign=3D=22to=
+p=22>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td class=3D=22banner__name=
+=22 align=3D=22center=22 valign=3D=22top=22 style=3D=22font-size: 28px; lin=
+e-height: 1=2E2; color: =23fff; font-weight: 600; letter-spacing: 0=2E025em=
+; font-family: Helvetica, Arial, sans-serif;=22>=D0=A4=D0=98=D0=9D=D0=90=D0=
+=9B =D0=A0=D0=90=D0=A1=D0=9F=D0=A0=D0=9E=D0=94=D0=90=D0=96=D0=98</td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D=22banner__text=
+=22 align=3D=22center=22 valign=3D=22top=22 style=3D=22padding: 10px 0px 0p=
+x; font-size: 24px; line-height: 1=2E0; color: =23fff; font-weight: 400; le=
+tter-spacing: -0=2E025em; font-family: Helvetica, Arial, sans-serif;=22>=D0=
+=91=D0=98=D0=9B=D0=95=D0=A2=D0=AB =D0=92 =D0=9B=D0=95=D0=A2=D0=9E
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22center=22 va=
+lign=3D=22top=22 style=3D=22padding: 25px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 180px; max-width: 100%;=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22 border=3D=220=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+                                                                <a href=3D=
+=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzb=
+m5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYTTT&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJe=
+jOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22display: block; =
+color: =23fff; text-decoration: none; font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=B5=D1=82=
+=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        <=21--=5Bif gte mso 9=5D>
+                        </v:textbox>
+                        </v:rect>
+                        <=21=5Bendif=5D-->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        	 <tr>
+            <td width=3D=22100%=22 align=3D=22center=22 valign=3D=22top=22 =
+style=3D=22padding: 0 5%; font-size: 16px; line-height: 20px; font-family: =
+Helvetica, Arial, sans-serif;=22>
+                <img src=3D=22http://www=2Euralairlines=2Eru/ajax/countdown=
+/gif=2Ephp?time=3D24=2E02=2E2019T23:59:59=22 alt=3D=22=22 style=3D=22max-wi=
+dth: 100%; border: none;=22 border=3D=220=22>
+            </td>
+        </tr>
+		<tr>
+            <td width=3D=22100%=22 align=3D=22center=22 valign=3D=22top=22 =
+style=3D=22padding: 10px 5% 0; font-size: 16px; line-height: 20px; font-fam=
+ily: Helvetica, Arial, sans-serif;=22><table border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22 width=3D=22100%=22>
+   <tbody>
+      <tr>
+         <td align=3D=22center=22 style=3D=22font-size: 20px; line-height: =
+1=2E2; letter-spacing: 0=2E04em; font-weight: 500; font-family: Helvetica, =
+Arial, sans-serif; text-color: =23000;=22 valign=3D=22top=22><span style=3D=
+=22color:=23000000;=22>=D0=9B=D0=B5=D1=82=D0=B8=D0=BC =D0=B2=D0=BC=D0=B5=D1=
+=81=D1=82=D0=B5=21 </span></td>
+      </tr>
+      <tr>
+         <td align=3D=22left=22 style=3D=22padding: 8px 0 0; font-size: 14p=
+x; line-height: 1=2E4; letter-spacing: 0=2E04em; font-weight: 300; font-fam=
+ily: Helvetica, Arial, sans-serif; text-color: =23000;=22 valign=3D=22top=
+=22><p style=3D=22text-align: justify;=22><span style=3D=22color:=23000000;=
+=22>=D0=9D=D0=B0=D1=88=D0=B8 =D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D1=8B =D1=80=D0=
+=B0=D0=B7=D0=B1=D0=B8=D1=80=D0=B0=D1=8E=D1=82 =D0=BE=D1=87=D0=B5=D0=BD=D1=
+=8C =D0=B1=D1=8B=D1=81=D1=82=D1=80=D0=BE=21 =D0=A3 =D0=92=D0=B0=D1=81 =D0=
+=B5=D1=89=D1=91 =D0=B5=D1=81=D1=82=D1=8C =D1=88=D0=B0=D0=BD=D1=81 =D0=B7=D0=
+=B0=D0=BF=D0=BB=D0=B0=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=
+=81=D0=B2=D0=BE=D1=91 =D0=BB=D0=B5=D1=82=D0=BE =D0=BF=D0=BE =D0=B2=D1=8B=D0=
+=B3=D0=BE=D0=B4=D0=BD=D1=8B=D0=BC =D1=86=D0=B5=D0=BD=D0=B0=D0=BC =D0=B4=D0=
+=BE 24 =D1=84=D0=B5=D0=B2=D1=80=D0=B0=D0=BB=D1=8F 2019 =D0=B3=D0=BE=D0=B4=
+=D0=B0=2E</span><br />
+=D0=92=D1=81=D0=B5 =D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=B8=D1=8F =D1=81=D0=BE =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=D0=B9 =D1=81=
+=D0=BC=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0 <a href=3D=22https:=
+//info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8=
+rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYTWT&amp;_ei_=
+=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3l=
+FGzA2dQSbQY=2E=22 target=3D=22_blank=22><span style=3D=22color:=23000000; t=
+ext-decoration:underline;=22>=D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=
+=B5 =D1=81=D0=BF=D0=B5=D1=86=D0=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=
+=B5=D0=BD=D0=B8=D0=B9</span></a>=2E
+</p>
+
+
+</td>
+      </tr>
+      =20
+   </tbody>
+</table>
+</td>
+        </tr>
+
+        <tr>
+            <td width=3D=22100%=22 align=3D=22left=22 valign=3D=22top=22 st=
+yle=3D=22padding: 10px 5% 0;=22>
+                <table border=3D=220=22 align=3D=22left=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22>
+                    <tr>
+                        <td class=3D=22column=22 width=3D=22180=22 align=3D=
+=22left=22 valign=3D=22top=22 style=3D=22background-color: =23D0D0D0; backg=
+round-image: url(http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/kgd_2=2Ejpg)=
+; -webkit-background-size: cover;background-size: cover; background-positio=
+n: 70% 30%;=22>
+                            <=21--=5Bif gte mso 9=5D>
+                            <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:=
+vml=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:180px;height=
+:178px;=22>
+                                <v:fill type=3D=22tile=22 src=3D=22/images/=
+kgd_2=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                                <v:textbox inset=3D=220,0,0,0=22>
+                            <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2213=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22font-size: 21px; line-height: 1=2E2; letter-spaci=
+ng: -0=2E03em; color: =23fff; font-weight: 400; font-family: Helvetica, Ari=
+al, sans-serif;=22><strong>=D0=9A=D0=B0=D0=BB=D0=B8=D0=BD=D0=B8=D0=BD=D0=B3=
+=D1=80=D0=B0=D0=B4</strong><br />
+<span style=3D=22letter-spacing: -0=2E04em; font-size:17px=22>=D0=B8=D0=B7 =
+=D0=96=D1=83=D0=BA=D0=BE=D0=B2=D1=81=D0=BA=D0=BE=D0=B3=D0=BE </span></td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 21px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 600; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                    =20
+                                                    =D0=BE=D1=82 <span styl=
+e=3D=22font-weight: 600;;=22><nobr>3 824 <img alt=3D=22=22 src=3D=22http://=
+static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/pr=
+omo/20190221_sale_summer_all_4//images/rub=2Epng=22 style=3D=22border: none=
+=22 width=3D=2214=22 height=3D=2215=22 border=3D=220=22 ></nobr></span> =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 20px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                  =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 20px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 100%; max-width: 180px; font-size: 18px; line=
+-height: 1=2E2;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+                                                                <a href=3D=
+=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzb=
+m5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYTAT&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJe=
+jOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22display: block; =
+color: =23fff; text-decoration: none; font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=B5=D1=82=
+=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <=21--=5Bif gte mso 9=5D>
+                            </v:textbox>
+                            </v:rect>
+                            <=21=5Bendif=5D-->
+                        </td>
+                       =20
+                        <td class=3D=22column=22 width=3D=22180=22 align=3D=
+=22left=22 valign=3D=22top=22 style=3D=22background-color: =23D0D0D0; backg=
+round-image: url(http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/mow_18=2Ejpg=
+); -webkit-background-size: cover;background-size: cover; background-positi=
+on: 90% 10%;=22>
+                        <=21--=5Bif gte mso 9=5D>
+                        <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=
+=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:180px;height:17=
+8px;=22>
+                            <v:fill type=3D=22tile=22 src=3D=22/images/mow_=
+18=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                            <v:textbox inset=3D=220,0,0,0=22>
+                        <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2213=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22font-size: 21px; line-height: 1=2E2; letter-spaci=
+ng: -0=2E03em; color: =23fff; font-weight: 400; font-family: Helvetica, Ari=
+al, sans-serif;=22><strong>=D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0</strong><br=
+ />
+<span style=3D=22letter-spacing: -0=2E04em; font-size:17px=22>=D0=B8=D0=B7 =
+=D0=A7=D0=B5=D0=BB=D1=8F=D0=B1=D0=B8=D0=BD=D1=81=D0=BA=D0=B0 </span></td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 21px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 600; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                    =20
+                                                    =D0=BE=D1=82 <span styl=
+e=3D=22font-weight: 600;;=22><nobr>4 155 <img alt=3D=22=22 src=3D=22http://=
+static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/pr=
+omo/20190221_sale_summer_all_4//images/rub=2Epng=22 style=3D=22border: none=
+=22 width=3D=2214=22 height=3D=2215=22 border=3D=220=22 ></nobr></span> =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 20px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                   =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 20px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 100%; max-width: 180px; font-size: 18px; line=
+-height: 1=2E2;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+                                                                <a href=3D=
+=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzb=
+m5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYTCT&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJe=
+jOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22display: block; =
+color: =23fff; text-decoration: none; font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=B5=D1=82=
+=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <=21--=5Bif gte mso 9=5D>
+                            </v:textbox>
+                            </v:rect>
+                            <=21=5Bendif=5D-->
+                        </td>
+                                                <td class=3D=22column=22 wi=
+dth=3D=22180=22 align=3D=22left=22 valign=3D=22top=22 style=3D=22background=
+-color: =23D0D0D0; background-image: url(http://static=2Ecdn=2Eresponsys=2E=
+net/i2/responsysimages/uralair/contentlibrary/promo/20190221_sale_summer_al=
+l_4//images/bqs_1=2Ejpg); -webkit-background-size: cover;background-size: c=
+over; background-position: 70% 30%;=22>
+                            <=21--=5Bif gte mso 9=5D>
+                            <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:=
+vml=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:270px;height=
+:206px;=22>
+                                <v:fill type=3D=22tile=22 src=3D=22/images/=
+bqs_1=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                                <v:textbox inset=3D=220,0,0,0=22>
+                            <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2213=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22font-size: 21px; line-height: 1=2E2; letter-spaci=
+ng: -0=2E03em; color: =23fff; font-weight: 400; font-family: Helvetica, Ari=
+al, sans-serif;=22><strong>=D0=91=D0=BB=D0=B0=D0=B3=D0=BE=D0=B2=D0=B5=D1=89=
+=D0=B5=D0=BD=D1=81=D0=BA</strong><br />
+<span style=3D=22letter-spacing: -0=2E04em; font-size:17px=22>=D0=B8=D0=B7 =
+=D0=95=D0=BA=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=BD=D0=B1=D1=83=D1=80=D0=B3=D0=
+=B0</span></td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 21px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                    =20
+                                                     =D0=BE=D1=82 <span sty=
+le=3D=22font-weight: 600;;=22><nobr>12 576 <img alt=3D=22=22 src=3D=22http:=
+//static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/=
+promo/20190221_sale_summer_all_4//images/rub=2Epng=22 style=3D=22border: no=
+ne=22 width=3D=2214=22 height=3D=2215=22 border=3D=220=22 ></nobr></span> =
+=20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 20px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                   =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 20px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 100%; max-width: 180px; font-size: 18px; line=
+-height: 1=2E2;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+                                                                <a href=3D=
+=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzb=
+m5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYURT&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJe=
+jOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22display: block; =
+color: =23fff; text-decoration: none; font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=B5=D1=82=
+=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        <=21--=5Bif gte mso 9=5D>
+                        </v:textbox>
+                        </v:rect>
+                        <=21=5Bendif=5D-->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td width=3D=22100%=22 align=3D=22left=22 valign=3D=22top=22 st=
+yle=3D=22padding: 0 5% 20px;=22>
+                <table border=3D=220=22 align=3D=22left=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 width=3D=22100%=22>
+                    <tr>
+                        <td class=3D=22column=22 width=3D=22270=22 align=3D=
+=22left=22 valign=3D=22top=22 style=3D=22background-color: =23D0D0D0; backg=
+round-image: url(http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/bordo_3=2Ejp=
+g); -webkit-background-size: cover;background-size: cover; background-posit=
+ion: 70% 30%;=22>
+                        <=21--=5Bif gte mso 9=5D>
+                        <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=
+=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:270px;height:20=
+6px;=22>
+                            <v:fill type=3D=22tile=22 src=3D=22/images/bord=
+o_3=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                            <v:textbox inset=3D=220,0,0,0=22>
+                        <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2213=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22font-size: 21px; line-height: 1=2E2; letter-spaci=
+ng: -0=2E03em; color: =23fff; font-weight: 400; font-family: Helvetica, Ari=
+al, sans-serif;=22><strong>=D0=91=D0=BE=D1=80=D0=B4=D0=BE <br /></strong>
+<span style=3D=22letter-spacing: -0=2E04em; font-size:17px=22>=D0=B8=D0=B7 =
+=D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D1=8B<sup><span style=3D=22letter-spacing: -=
+0=2E04em; font-size:13px=22> new</span></sup></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 21px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                    =20
+                                                     =D0=BE=D1=82 <span sty=
+le=3D=22font-weight: 600;;=22><nobr>4 532 <img alt=3D=22=22 src=3D=22http:/=
+/static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/p=
+romo/20190221_sale_summer_all_4//images/rub=2Epng=22 style=3D=22border: non=
+e=22 width=3D=2214=22 height=3D=2215=22 border=3D=220=22 ></nobr></span>  =
+=20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 20px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                   =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 20px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 100%; max-width: 180px; font-size: 18px; line=
+-height: 1=2E2;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+                                                                <a href=3D=
+=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzb=
+m5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYUTT&=
+amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJe=
+jOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22display: block; =
+color: =23fff; text-decoration: none; font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=B5=D1=82=
+=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        <=21--=5Bif gte mso 9=5D>
+                        </v:textbox>
+                        </v:rect>
+                        <=21=5Bendif=5D-->
+                        </td>
+                        <td class=3D=22column=22 width=3D=22270=22 align=3D=
+=22left=22 valign=3D=22top=22 style=3D=22background-color: =23D0D0D0; backg=
+round-image: url(http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/mon_2=2Ejpg)=
+; -webkit-background-size: cover;background-size: cover; background-positio=
+n:  100% 100%;=22>
+                            <=21--=5Bif gte mso 9=5D>
+                            <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:=
+vml=22 fill=3D=22true=22 stroke=3D=22false=22 style=3D=22width:180px;height=
+:178px;=22>
+                                <v:fill type=3D=22tile=22 src=3D=22/images/=
+mon_2=2Ejpg=22 color=3D=22=23d0d0d0=22 />
+                                <v:textbox inset=3D=220,0,0,0=22>
+                            <=21=5Bendif=5D-->
+                            <table class=3D=22table=22 cellpadding=3D=220=
+=22 cellspacing=3D=2213=22 border=3D=220=22 width=3D=22100%=22 style=3D=22b=
+order-collapse: separate;=22>
+                                <tr>
+                                    <td>
+                                        <table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 border=3D=220=22 width=3D=22100%=22>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22font-size: 21px; line-height: 1=2E2; letter-spaci=
+ng: -0=2E03em; color: =23fff; font-weight: 400; font-family: Helvetica, Ari=
+al, sans-serif;=22><strong>=D0=9C=D0=BE=D0=BD=D0=BF=D0=B5=D0=BB=D1=8C=D0=B5=
+</strong><br />
+<span style=3D=22letter-spacing: -0=2E04em; font-size:17px=22>=D0=B8=D0=B7 =
+=D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D1=8B<sup><span style=3D=22letter-spacing: -=
+0=2E04em; font-size:13px=22> new</span></sup></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 21px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                    =20
+                                                    =D0=BE=D1=82 <span styl=
+e=3D=22font-weight: 600;;=22><nobr>4 532 <img alt=3D=22=22 src=3D=22http://=
+static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/pr=
+omo/20190221_sale_summer_all_4//images/rub=2Epng=22 style=3D=22border: none=
+=22 width=3D=2214=22 height=3D=2215=22 border=3D=220=22 ></nobr></span>=20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 5px 0 0; font-size: 20px; line-height: 1=
+=2E2; letter-spacing: -0=2E03em; color: =23fff; font-weight: 400; font-fami=
+ly: Helvetica, Arial, sans-serif;=22>
+                                                   =20
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align=3D=22left=22 vali=
+gn=3D=22top=22 style=3D=22padding: 20px 0 0;=22>
+                                                    <table style=3D=22backg=
+round-color:=23DD132D; width: 100%; max-width: 180px; font-size: 18px; line=
+-height: 1=2E2;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22>
+                                                        <tbody>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                            <td align=3D=22=
+center=22>
+<a href=3D=22https://info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpgl=
+LjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3D=
+STCTBYUWT&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKR=
+f3bFv5ohJejOy4mG3lFGzA2dQSbQY=2E=22 target=3D=22_blank=22 style=3D=22displa=
+y: block; color: =23fff; text-decoration: none; font-size: 12px; font-famil=
+y: Helvetica, Arial, sans-serif; font-weight: 500;=22>=D0=9B=D0=B5=D1=82=D0=
+=B5=D1=82=D1=8C</a>
+                                                            </td>
+                                                            <td width=3D=22=
+10=22>&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan=3D=
+=223=22 style=3D=22line-height:9px;font-size:9px;=22 height=3D=229=22>&nbsp=
+;</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <=21--=5Bif gte mso 9=5D>
+                            </v:textbox>
+                            </v:rect>
+                            <=21=5Bendif=5D-->
+                        </td>
+                       =20
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding:=
+ 25px 2% 5px;=22>
+                <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 style=3D=22margin:0;=22>
+                    <tr>
+                        <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22font-size: 0; line-height: 0; opacity: =2E5;=22>
+                            <=21--=5Bif gte mso 9=5D>
+                            <table width=3D=22100%=22 border=3D=220=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                                <tr>
+                                    <td valign=3D=22top=22 align=3D=22cente=
+r=22 style=3D=22width: 71px; padding: 0 3px 10px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 6=
+6px; padding: 0 2px 10px;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                                    <tbody>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYUAT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none;=22>
+                                                <img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/20=
+190221_sale_summer_all_4//images/a1=2Epng=22  style=3D=22display: block; bo=
+rder: 0;=22 border=3D=220=22 width=3D=2247=22 height=3D=2247=22 alt=3D=22=
+=D0=91=D0=BE=D0=BD=D1=83=D1=81=D0=BD=D0=B0=D1=8F =D0=BF=D1=80=D0=BE=D0=B3=
+=D1=80=D0=B0=D0=BC=D0=BC=D0=B0=22>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22padding: 5px 0 0; font-size: 10px; line-height: 1=2E2;=
+ color: =23303030; letter-spacing: 0=2E025em; font-family: Helvetica, Arial=
+, sans-serif;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYUAT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22font-size: 10px; line-height: 1=2E2=
+; color: =23303030; text-decoration: none;=22>
+                                                =D0=91=D0=BE=D0=BD=D1=83=D1=
+=81=D0=BD=D0=B0=D1=8F<br>=D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=
+=D0=B0
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td>
+                            <td valign=3D=22top=22 align=3D=22center=22 sty=
+le=3D=22width: 71px; padding: 0 3px 10px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 6=
+6px; padding: 0 2px 10px;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                                    <tbody>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYUCT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none;=22>
+                                                <img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/20=
+190221_sale_summer_all_4//images/a2=2Epng=22  style=3D=22display: block; bo=
+rder: 0;=22 border=3D=220=22 width=3D=2247=22 height=3D=2247=22 alt=3D=22=
+=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B0 =D0=B7=D0=B0=D0=BA=D0=B0=
+=D0=B7=D0=B0=22>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22padding: 5px 0 0; font-size: 10px; line-height: 1=2E2;=
+ color: =23303030; letter-spacing: 0=2E025em; font-family: Helvetica, Arial=
+, sans-serif;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYUCT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22font-size: 10px; line-height: 1=2E2=
+; color: =23303030; text-decoration: none;=22>
+                                                =D0=9F=D1=80=D0=BE=D0=B2=D0=
+=B5=D1=80=D0=BA=D0=B0<br>=D0=B7=D0=B0=D0=BA=D0=B0=D0=B7=D0=B0
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td>
+                            <td valign=3D=22top=22 align=3D=22center=22 sty=
+le=3D=22width: 71px; padding: 0 3px 10px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 6=
+6px; padding: 0 2px 10px;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                                    <tbody>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWRT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none;=22>
+                                                <img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/20=
+190221_sale_summer_all_4//images/a3=2Epng=22  style=3D=22display: block; bo=
+rder: 0;=22 border=3D=220=22 width=3D=2247=22 height=3D=2247=22 alt=3D=22=
+=D0=9E=D0=BD=D0=BB=D0=B0=D0=B9=D0=BD =D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=
+=D1=80=D0=B0=D1=86=D0=B8=D1=8F=22>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22padding: 5px 0 0; font-size: 10px; line-height: 1=2E2;=
+ color: =23303030; letter-spacing: 0=2E025em; font-family: Helvetica, Arial=
+, sans-serif;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWRT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; font-size: 1=
+0px; line-height: 1=2E2; color: =23303030;=22>
+                                                =D0=9E=D0=BD=D0=BB=D0=B0=D0=
+=B9=D0=BD<br>=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=86=D0=B8=
+=D1=8F
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td>
+                            <td valign=3D=22top=22 align=3D=22center=22 sty=
+le=3D=22width: 71px; padding: 0 3px 10px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 6=
+6px; padding: 0 2px 10px;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                                    <tbody>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWTT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none;=22>
+                                                <img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/20=
+190221_sale_summer_all_4//images/a4=2Epng=22  style=3D=22display: block; bo=
+rder: 0;=22 border=3D=220=22 width=3D=2247=22 height=3D=2247=22 alt=3D=22=
+=D0=A1=D0=BB=D1=83=D0=B6=D0=B1=D0=B0 =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=
+=D0=B6=D0=BA=D0=B8=22>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D=22center=22 valign=3D=
+=22top=22 style=3D=22padding: 5px 0 0; font-size: 10px; line-height: 1=2E2;=
+ color: =23303030; letter-spacing: 0=2E025em; font-family: Helvetica, Arial=
+, sans-serif;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWTT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 target=3D=22_blank=22 style=3D=22font-size: 10px; line-height: 1=2E2=
+; color: =23303030; text-decoration: none;=22>
+                                                =D0=A1=D0=BB=D1=83=D0=B6=D0=
+=B1=D0=B0<br>=D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=BA=D0=B8
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td>
+                            </tr>
+                            </table>
+                            <=21=5Bendif=5D-->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding:=
+ 0 5% 20px;=22>
+                <table width=3D=22100%=22 border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 style=3D=22margin:0;=22>
+                    <tr>
+                        <td class=3D=22column=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22padding: 15px 0 0;=22>
+                            <=21--=5Bif gte mso 9=5D>
+                            <table border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 style=3D=22margin:0; table-layout: fixed; vertical-ali=
+gn: top;=22>
+                                <tr><td width=3D=2240=22 style=3D=22padding=
+: 0 4px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 3=
+2px; padding: 0 4px; font-size: 13px; line-height: 19px; color: =23999999;=
+=22>
+                                <a target=3D=22_blank=22 href=3D=22https://=
+info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY=
+67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWWT&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGz=
+A2dQSbQY=2E=22 style=3D=22display: block; text-decoration: none; font-size:=
+ 13px; line-height: 19px; color: =23999999;=22>
+                                    <img alt=3D=22Vkontakte=22 border=3D=22=
+0=22 width=3D=2232=22 height=3D=2232=22 style=3D=22display: block; border: =
+none=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/s2=2Epng=22>
+                                </a>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td><td width=3D=2240=22 style=3D=22padding: 0=
+ 4px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 3=
+2px; padding: 0 4px; font-size: 13px; line-height: 19px; color: =23999999;=
+=22>
+                                <a target=3D=22_blank=22 href=3D=22https://=
+info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY=
+67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWAT&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGz=
+A2dQSbQY=2E=22 style=3D=22display: block; text-decoration: none; font-size:=
+ 13px; line-height: 19px; color: =23999999;=22>
+                                    <img alt=3D=22Facebook=22 border=3D=220=
+=22 width=3D=2232=22 height=3D=2232=22 style=3D=22display: block; border: n=
+one=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/ur=
+alair/contentlibrary/promo/20190221_sale_summer_all_4//images/s1=2Epng=22 />
+                                </a>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td><td width=3D=2240=22 style=3D=22padding: 0=
+ 4px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 3=
+2px; padding: 0 4px; font-size: 13px; line-height: 19px; color: =23999999;=
+=22>
+                                <a target=3D=22_blank=22 href=3D=22https://=
+info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY=
+67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYWCT&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGz=
+A2dQSbQY=2E=22 style=3D=22display: block; text-decoration: none; font-size:=
+ 13px; line-height: 19px; color: =23999999;=22>
+                                    <img alt=3D=22Instagram=22 border=3D=22=
+0=22 width=3D=2232=22 height=3D=2232=22 style=3D=22display: block; border: =
+none=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/u=
+ralair/contentlibrary/promo/20190221_sale_summer_all_4//images/s5=2Epng=22 =
+/>
+                                </a>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td><td width=3D=2240=22 style=3D=22padding: 0=
+ 4px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 3=
+2px; padding: 0 4px; font-size: 13px; line-height: 19px; color: =23999999;=
+=22>
+                                <a target=3D=22_blank=22 href=3D=22https://=
+info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY=
+67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYYRT&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGz=
+A2dQSbQY=2E=22 style=3D=22display: block; text-decoration: none; font-size:=
+ 13px; line-height: 19px; color: =23999999;=22>
+                                    <img alt=3D=22Odnoklassniki=22 border=
+=3D=220=22 width=3D=2232=22 height=3D=2232=22 style=3D=22display: block; bo=
+rder: none=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysim=
+ages/uralair/contentlibrary/promo/20190221_sale_summer_all_4//images/s3=2Ep=
+ng=22 />
+                                </a>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td><td width=3D=2240=22 style=3D=22padding: 0=
+ 4px;=22>
+                            <=21=5Bendif=5D-->
+                            <div style=3D=22display: inline-block; width: 3=
+2px; padding: 0 4px; font-size: 13px; line-height: 19px; color: =23999999;=
+=22>
+                                <a target=3D=22_blank=22 href=3D=22https://=
+info=2Euralairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY=
+67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYYTT&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGz=
+A2dQSbQY=2E=22 style=3D=22display: block; text-decoration: none; font-size:=
+ 13px; line-height: 19px; color: =23999999;=22>
+                                    <img alt=3D=22Twitter=22 border=3D=220=
+=22 width=3D=2232=22 height=3D=2232=22 style=3D=22display: block; border: n=
+one=22 src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/ur=
+alair/contentlibrary/promo/20190221_sale_summer_all_4//images/s4=2Epng=22 />
+                                </a>
+                            </div>
+                            <=21--=5Bif gte mso 9=5D>
+                            </td></tr></table>
+                            <=21=5Bendif=5D-->
+                        </td>
+                        <td class=3D=22column=22 width=3D=22270=22 align=3D=
+=22center=22 valign=3D=22top=22 style=3D=22padding: 15px 0 0;=22>
+                            <table border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 style=3D=22margin:0; padding:0;=22 width=3D=22100%=22>
+                                <tbody>
+                                <tr>
+                                    <td align=3D=22center=22 style=3D=22pad=
+ding: 0; font-size: 0; line-height: 0;=22 valign=3D=22top=22>
+                                        <=21--=5Bif gte mso 9=5D>
+                                        <table border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 style=3D=22margin:0; table-layout: fixed; =
+vertical-align: top;=22>
+                                            <tr><td valign=3D=22top=22 alig=
+n=3D=22center=22 style=3D=22width: 113px; padding: 0 4px; text-align: right=
+;=22>
+                                        <=21=5Bendif=5D-->
+                                        <div style=3D=22display: inline-blo=
+ck; width: 105px; padding: 0 4px; text-align: right; font-size: 13px; line-=
+height: 40px; color: =23999999;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYYWT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 style=3D=22display: block; text-decoration: underline; font-size: 13=
+px; line-height: 40px; color: =23999999;=22 title=3D=22=D0=94=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F IPhone AppStore=22>
+                                                <img width=3D=22105=22 heig=
+ht=3D=2231=22 style=3D=22display: block; border: 0;=22 src=3D=22http://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/=
+20190221_sale_summer_all_4//images/s6=2Epng=22 border=3D=220=22 alt=3D=22=
+=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F IPhone =
+AppStore=22 />
+                                            </a>
+                                        </div>
+                                        <=21--=5Bif gte mso 9=5D>
+                                        </td><td valign=3D=22top=22 align=
+=3D=22center=22 style=3D=22width: 107px; padding: 0 4px; text-align: left;=
+=22>
+                                        <=21=5Bendif=5D-->
+                                        <div style=3D=22display: inline-blo=
+ck; width: 99px; padding: 0 4px; text-align: left; font-size: 13px; line-he=
+ight: 40px; color: =23999999;=22>
+                                            <a href=3D=22https://info=2Eura=
+lairlines=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh=
+7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYYAT&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=
+=2E=22 style=3D=22display: block; text-decoration: underline; font-size: 13=
+px; line-height: 40px; color: =23999999;=22 title=3D=22=D0=94=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F Android Google play=22>
+                                                <img width=3D=2299=22 heigh=
+t=3D=2231=22 style=3D=22display: block; border: 0;=22 src=3D=22http://stati=
+c=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/uralair/contentlibrary/promo/2=
+0190221_sale_summer_all_4//images/s7=2Epng=22 border=3D=220=22 alt=3D=22=D0=
+=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F Android Go=
+ogle play=22 />
+                                            </a>
+                                        </div>
+                                        <=21--=5Bif gte mso 9=5D>
+                                        </td></tr></table>
+                                        <=21=5Bendif=5D-->
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+	=09
+		<tr>
+			<td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding: 0 5% 10p=
+x; width: 100%; font-family: sans-serif; font-size: 12px; line-height: 140%=
+; text-align: center; color: =23999999;=22 class=3D=22x-gmail-data-detector=
+s=22>&copy; =D0=9E=D0=90=D0=9E =D0=90=D0=9A &laquo;=D0=A3=D1=80=D0=B0=D0=BB=
+=D1=8C=D1=81=D0=BA=D0=B8=D0=B5 =D0=B0=D0=B2=D0=B8=D0=B0=D0=BB=D0=B8=D0=BD=
+=D0=B8=D0=B8&raquo; 2019=2E<br />
+=D0=92=D1=81=D0=B5&nbsp;=D0=BF=D1=80=D0=B0=D0=B2=D0=B0&nbsp;=D0=B7=D0=B0=D1=
+=89=D0=B8=D1=89=D0=B5=D0=BD=D1=8B=2E<br />
+=D0=A6=D0=B5=D0=BD=D1=8B =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=82=
+=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B =D0=BD=D0=B0 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=
+=D1=82 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=B0=2E<br />
+				<span class=3D=22email-ff=22 style=3D=22display: inline-block; vertical=
+-align: top; font-family: Arial, sans-serif; font-size: 13px; line-height: =
+19px; -webkit-text-size-adjust: none; white-space: nowrap; color: =23999999=
+; padding: 6px 15px;=22><a href=3D=22https://info=2Euralairlines=2Eru/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBU=
+zbXDzbnDMvjHMKRVXtpKX%3DSTCTBYYCT&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbkGRXhXB-=
+UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=2E=22 style=3D=22font=
+-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; =
+-webkit-text-size-adjust: none; white-space: nowrap; color: =23999999; text=
+-decoration: underline;=22>
+					=D0=9E=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=D1=
+=82 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8
+				</a></span>
+                <span class=3D=22email-ff=22 style=3D=22display: inline-blo=
+ck; vertical-align: top; font-family: Arial, sans-serif; font-size: 13px; l=
+ine-height: 19px; -webkit-text-size-adjust: none; white-space: nowrap; colo=
+r: =23999999; padding: 6px 15px;=22><a href=3D=22https://info=2Euralairline=
+s=2Eru/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzc=
+XnSOEUI4JfBUzbXDzbnDMvjHMKRVXtpKX%3DSTCTBYART&amp;_ei_=3DEq2tf9zs59idfPO1Sc=
+_9BbkGRXhXB-UPNSOTSmYQqGXdfQMoxg5JKRf3bFv5ohJejOy4mG3lFGzA2dQSbQY=2E=22 sty=
+le=3D=22font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-he=
+ight: 19px; -webkit-text-size-adjust: none; white-space: nowrap; color: =23=
+999999; text-decoration: underline;=22>
+					=D0=9F=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=
+=BD=D0=B0 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83
+				</a></span>
+			</td>
+		</tr>
+
+    </table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22borde=
+r: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float=
+: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://info=2Euralairlines=2Eru/pub/as?_ri_=3DX0Gzc2X%3D=
+YQpglLjHJlTQGzbm5d4wvcG8rY67FW5AuqNh7tmCzdzcXnSOEUI4JfBUzbXDzbnDMvjHMKRVXHk=
+MX%3Dw&_ei_=3DEolaGGF4SNMvxFF7KucKuWOQ0cOE3ZsBe9SMI5WfbNUwJQ19UVhiN2o7V0rdd=
+18ajb2ZSnM4=2E=22></img>
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+
+
